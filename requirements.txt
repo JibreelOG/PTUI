@@ -1,0 +1,5 @@
+streamlit 
+matplotlib 
+datetime 
+streamlit_option_menu 
+openai 
