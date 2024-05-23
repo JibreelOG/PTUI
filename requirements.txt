@@ -2,4 +2,4 @@ streamlit
 matplotlib 
 datetime 
 streamlit_option_menu 
-openai 
+openai==0.28
